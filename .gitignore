@@ -1,0 +1,17 @@
+/build/
+/iso/
+/test.iso
+/takeme/LaunchMe
+*.o
+*.d
+analysis/*.current.*
+analysis/*_current*
+analysis/current_*
+__pycache__/
+*.pyc
+/.codegraph/
+/node_modules/
+/test-harness-runs/
+\#*\#
+.\#*
+*~undo-tree~
